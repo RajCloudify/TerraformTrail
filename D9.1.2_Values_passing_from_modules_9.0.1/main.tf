@@ -6,3 +6,4 @@ module "test" {
   tags = var.tags
 
 }
+
