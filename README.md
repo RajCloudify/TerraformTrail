@@ -1,2 +1,2 @@
-# TerraformTrail - Terraform pathway 
+# TerraformTrail - Terraform pathway
  
